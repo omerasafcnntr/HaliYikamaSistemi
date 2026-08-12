@@ -19,10 +19,6 @@ Proje, **C# Windows Forms** kullanılarak tasarlanmış ve arka planda **Microso
 * **Veritabanı:** MS SQL Server (ADO.NET)
 * **Geliştirme Ortamı:** Visual Studio 2022
 
-## 📸 Ekran Görüntüsü
-
-![Proje Ekran Görüntüsü](ekrangoruntusu.jpg)
-
 ## 🛠️ Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyebilirsiniz:
